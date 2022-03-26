@@ -1,0 +1,11 @@
+*.jpg
+*.jpeg
+*.png
+*.webp
+/dataset/
+/downloads/
+/google_images_download/
+/bing_image_downloader/
+/.ipynb_checkpoints
+*.onnx
+model
